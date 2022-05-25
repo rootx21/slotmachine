@@ -1,6 +1,5 @@
 <html>
 <head>      
-<meta charset="utf-8">
 <title>スロットマシーン 1</title>
 <style>
 input {
